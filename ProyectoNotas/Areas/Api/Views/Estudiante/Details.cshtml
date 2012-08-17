@@ -1,0 +1,30 @@
+﻿@model ProyectoNotas.Areas.Api.Models.Estudiante
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Estudiante</legend>
+
+    <div class="display-label">Nombres</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nombres)
+    </div>
+
+    <div class="display-label">Apellidos</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Apellidos)
+    </div>
+
+    <div class="display-label">Grupos</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Grupos.Numero)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.EstudianteId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProyectoNotas.Areas.Api.Models.Acudiente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Nombres
+        </th>
+        <th>
+            Apellidos
+        </th>
+        <th>
+            Colegios
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombres)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellidos)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Colegios.NombreColegio)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AcudienteId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AcudienteId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AcudienteId })
+        </td>
+    </tr>
+}
+
+</table>

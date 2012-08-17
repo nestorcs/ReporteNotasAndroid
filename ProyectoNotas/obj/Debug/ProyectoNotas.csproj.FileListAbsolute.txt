@@ -1,0 +1,7 @@
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\bin\ProyectoNotas.dll
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\bin\ProyectoNotas.pdb
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\bin\EntityFramework.dll
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\bin\EntityFramework.xml
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\obj\Debug\ProyectoNotas.dll
+c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\ProyectoNotas\ProyectoNotas\obj\Debug\ProyectoNotas.pdb

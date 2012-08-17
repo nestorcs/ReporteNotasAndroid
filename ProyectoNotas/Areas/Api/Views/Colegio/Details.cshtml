@@ -1,0 +1,20 @@
+﻿@model ProyectoNotas.Areas.Api.Models.Colegio
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Colegio</legend>
+
+    <div class="display-label">NombreColegio</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NombreColegio)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ColegioId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
