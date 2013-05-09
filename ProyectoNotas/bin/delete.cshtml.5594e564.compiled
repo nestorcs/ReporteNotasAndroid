@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Areas/Api/Views/GrupoAsignatura/Delete.cshtml" hash="ffffffff95a58838" filehash="ffffe27317d24fda" flags="110000" assembly="App_Web_cmls5sd5" type="ASP._Page_Areas_Api_Views_GrupoAsignatura_Delete_cshtml">
-    <filedeps>
-        <filedep name="/Areas/Api/Views/GrupoAsignatura/Delete.cshtml" />
-    </filedeps>
-</preserve>

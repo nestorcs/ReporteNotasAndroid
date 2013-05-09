@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Areas/Api/Views/Asignatura/Edit.cshtml" hash="ffffffff95a58838" filehash="ffffecb52e1244be" flags="110000" assembly="App_Web_yvk4ksik" type="ASP._Page_Areas_Api_Views_Asignatura_Edit_cshtml">
-    <filedeps>
-        <filedep name="/Areas/Api/Views/Asignatura/Edit.cshtml" />
-    </filedeps>
-</preserve>

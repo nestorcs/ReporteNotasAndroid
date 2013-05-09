@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Areas/Api/Views/Acudiente/Index.cshtml" hash="ffffffff95a58838" filehash="511cef697bd" flags="110000" assembly="App_Web_hrtd1lbm" type="ASP._Page_Areas_Api_Views_Acudiente_Index_cshtml">
-    <filedeps>
-        <filedep name="/Areas/Api/Views/Acudiente/Index.cshtml" />
-    </filedeps>
-</preserve>
