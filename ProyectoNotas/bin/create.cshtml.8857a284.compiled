@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Areas/Api/Views/Docente/Create.cshtml" hash="ffffffff95a58838" filehash="4374cf5e5fa9" flags="110000" assembly="App_Web_xovy4udu" type="ASP._Page_Areas_Api_Views_Docente_Create_cshtml">
+    <filedeps>
+        <filedep name="/Areas/Api/Views/Docente/Create.cshtml" />
+    </filedeps>
+</preserve>
