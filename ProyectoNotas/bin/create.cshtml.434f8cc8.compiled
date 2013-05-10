@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Areas/Api/Views/Acudiente/Create.cshtml" hash="ffffffff95a58838" filehash="48e1279c4ca" flags="110000" assembly="App_Web_hrtd1lbm" type="ASP._Page_Areas_Api_Views_Acudiente_Create_cshtml">
+    <filedeps>
+        <filedep name="/Areas/Api/Views/Acudiente/Create.cshtml" />
+    </filedeps>
+</preserve>
